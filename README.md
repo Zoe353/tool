@@ -1,4 +1,4 @@
-# tool
+# CLI tool
  ### Introduction  
  The tool will make an HTTP request to the designed URL and print the response directly to the console.   
  ### Usage:  
