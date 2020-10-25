@@ -8,14 +8,17 @@
  Measure how fast it is, the CLI tool will print out the following logics after all the HTTP requests:  
  * The number of requests  
  * The fastest time  
->> * The slowest time  
->> * The mean & median times  
->> * The percentage of requests that succeeded  
->> * Any error codes returned that weren't a success  
->> * The size in bytes of the smallest response  
->> * The size in bytes of the largest response  
+ * The slowest time  
+ * The mean & median times  
+ * The percentage of requests that succeeded  
+ * Any error codes returned that weren't a success  
+ * The size in bytes of the smallest response  
+ * The size in bytes of the largest response  
     
- ### Screenshots:
+ ### Screenshots
  ![image](https://github.com/Zoe353/tool/blob/main/image/result1.png)
  ![image](https://github.com/Zoe353/tool/blob/main/image/result2.png)
  ![image](https://github.com/Zoe353/tool/blob/main/image/result3.png)
+ 
+ ### Observation
+ The first time to make the HTTP request will cost more time, which is reasonable.
