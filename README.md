@@ -6,8 +6,8 @@
  --profile, a positive integer. The CLI tool will make that number of requests to the designed site.  
  ### Measurement  
  Measure how fast it is, the CLI tool will print out the following logics after all the HTTP requests:  
->> * The number of requests  
->> * The fastest time  
+ * The number of requests  
+ * The fastest time  
 >> * The slowest time  
 >> * The mean & median times  
 >> * The percentage of requests that succeeded  
