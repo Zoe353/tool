@@ -13,4 +13,6 @@
     
     
 Screenshots:
-![image](https://github.com/lexsaints/powershell/blob/master/IMG/ps2.png)
+![image](https://github.com/Zoe353/tool/blob/main/image/result1.png)
+![image](https://github.com/Zoe353/tool/blob/main/image/result2.png)
+![image](https://github.com/Zoe353/tool/blob/main/image/result3.png)
