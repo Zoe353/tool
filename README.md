@@ -17,8 +17,7 @@
     
  ### Screenshots
  ![image](https://github.com/Zoe353/tool/blob/main/image/result1.png)
- ![image](https://github.com/Zoe353/tool/blob/main/image/result2.png)
- ![image](https://github.com/Zoe353/tool/blob/main/image/result3.png)
+ ![image](https://github.com/Zoe353/tool/blob/main/image/result4.png)
  
  ### Observation
  The first time to make the HTTP request will cost more time, which is reasonable.
